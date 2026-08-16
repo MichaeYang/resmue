@@ -44,20 +44,10 @@ resume/
 3. Source 选择 `main` 分支 / 根目录，保存
 4. 几分钟后即可通过 `https://你的用户名.github.io/仓库名/` 访问
 
-### 方式二：Vercel
-1. 注册 [vercel.com](https://vercel.com) 并连接 GitHub 仓库
-2. 导入本项目仓库，Framework Preset 选择 "Other"
-3. 直接部署，无需额外构建配置
-4. 部署完成后会自动生成一个 `.vercel.app` 域名
-
-### 方式三：Netlify
-1. 注册 [netlify.com](https://netlify.com)
-2. 将整个项目文件夹直接拖拽到 Netlify 的部署页面（Drag and drop）
-3. 几秒钟即可生成一个可访问的网址
 
 部署完成后，记得把生成的网址附在提交文档中。
 
 ## 联系方式
 
-- 电话：18837788969
+- 电话：18837788xxx
 - 邮箱：3990827232@qq.com
